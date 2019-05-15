@@ -1,6 +1,7 @@
 # react-native-banner
 banner轮播图
-
+## Usage
+```javascript
 <Banner
   containerStyle={{borderRadius:8,overflow:'hidden'}}
   autoplay={true}
@@ -15,3 +16,4 @@ banner轮播图
    <Image source={require('../../image/banner2.png')}/>
    <Image source={require('../../image/banner3.png')}/>
    </Banner>
+   ```
